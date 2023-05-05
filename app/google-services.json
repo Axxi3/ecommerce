@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "161227145836",
+    "project_id": "asli-mills-4690e",
+    "storage_bucket": "asli-mills-4690e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161227145836:android:f653f9bce0b6c6ce790e49",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161227145836-lav6f33rs5g8jsuoj4k4tosqv9dqkp1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu5kGAI9xLsjrCTPvp_upU29xVSNAlCNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161227145836-lav6f33rs5g8jsuoj4k4tosqv9dqkp1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161227145836:android:009d76d7a0fed823790e49",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161227145836-lav6f33rs5g8jsuoj4k4tosqv9dqkp1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu5kGAI9xLsjrCTPvp_upU29xVSNAlCNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161227145836-lav6f33rs5g8jsuoj4k4tosqv9dqkp1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
